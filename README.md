@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Paulo Daniel 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo.rocha0899?igsh=MTQ4NjlkcXhmaXAx)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-daniel-877b77242)
+[![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-daniel-877b77242)
 
 ![paulodnl GitHub stats](https://github-readme-stats.vercel.app/api?username=paulodnl&show_icons=true&theme=radical)
 
