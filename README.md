@@ -20,5 +20,5 @@ Graduando em Engenharia de Software 🖥️
 <br/>
 
 Fale comigo!<br/>
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1736821912)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.rocha0899@gmail.com?subject=Contato%20pelo%20GitHub)
 
