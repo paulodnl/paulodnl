@@ -17,3 +17,8 @@
 </div><br/>
 
 Graduando em Engenharia de Software 🖥️
+<br/>
+
+Fale comigo!
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/paulodnl21)
+
